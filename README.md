@@ -5,11 +5,11 @@ with MATLAB
 To design an audio spectrum analyser using MATLAB exclusively to capture, process and visualise audio signals.
 
 # Main Features :
-**1. Signal Acquisition:**
+**1. Signal Acquisition**:
 
     - Use of the audioread function to read the audio signal from a file or directly from the   microphone.
     - Conversion of the signal into a format suitable for processing.
-**2. Signal Processing:**
+**2. Signal Processing**:
 
     - Use of the fft function to perform the Fast Fourier Transform (FFT) to obtain the frequency spectrum.
     - Filtering of unwanted noise using filtering methods available in MATLAB.
