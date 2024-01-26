@@ -20,15 +20,12 @@ To design an audio spectrum analyser using MATLAB exclusively to capture, proces
 - Use the plot function to display the data in graphical form.
 - Ability to choose logarithmic or linear scaling for axes.
     
-**4. User control**:
-
- - Simple user interface using MATLAB GUI (Graphical User Interface) to start/stop analysis, choose recording duration and customise parameters.
     
-**5. Real-time display**:
+**4. Real-time display**:
 
 - Real-time update of the audio spectrum on the figure during playing.
 - Digital display of dominant frequencies.
     
-**6. Recording and Playback**:
+**5. Recording and Playback**:
 
 - Use the audiowrite and audioread functions to record and play back recordings.
