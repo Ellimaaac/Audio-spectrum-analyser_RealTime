@@ -26,7 +26,7 @@ To design an audio spectrum analyser using MATLAB exclusively to capture, proces
     
 **5. Real-time display**:
 
-- Real-time update of the audio spectrum on the figure during recording.
+- Real-time update of the audio spectrum on the figure during playing.
 - Digital display of dominant frequencies.
     
 **6. Recording and Playback**:
