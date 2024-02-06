@@ -7,3 +7,4 @@ with MATLAB
 
 <img src="https://github.com/Ellimaaac/Audio-spectrum-analyser_RT/blob/main/exemple_gif.gif" />
 
+Check the video with the music : [Here](https://github.com/Ellimaaac/Audio-spectrum-analyser_RT/blob/main/exemple_mp4.mp4) 
